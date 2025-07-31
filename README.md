@@ -40,6 +40,6 @@ echo "✅ Tests passed. Proceeding with push"
  
 <ul>
 <p> This is a git reflog</p>
-<img src= "./{5A600DF6-72A4-41E8-BB56-1B9086D477E6}.png" alt="Git reflog"/>
+<img src= "./image.png" alt="Git reflog"/>
 </ul>
 <br/>
